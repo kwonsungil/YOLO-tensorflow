@@ -1,4 +1,4 @@
-# YOLO-tensorflow-
+# YOLO-tensorflow
 You Only Look Once 모델 v1~v3 구현 by tensorflow
 
 
